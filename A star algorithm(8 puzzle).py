@@ -1,16 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # A* Algorithm(8 puzzle)
-
-# Name of Student: Sagar Jha
-
-# Roll No: 102097008
-
-# Branch: Computer Science & Engineering
-
-# Sub Group: CSE6
-
 # In[31]:
 
 
