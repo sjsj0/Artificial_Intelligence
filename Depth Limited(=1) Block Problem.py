@@ -3,13 +3,6 @@
 
 # # Depth Limited(=1) (Block World Problem)
 
-# Name of Student: Sagar Jha
-
-# Roll No: 102097008
-
-# Branch: Computer Science & Engineering
-
-# Sub Group: CSE6
 ## Nomenclature
 A->1
 B->2
