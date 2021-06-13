@@ -3,14 +3,6 @@
 
 # # Hill Climbing (8 puzzle)
 
-# Name of Student: Sagar Jha
-
-# Roll No: 102097008
-
-# Branch: Computer Science & Engineering
-
-# Sub Group: CSE6
-
 # In[9]:
 
 
