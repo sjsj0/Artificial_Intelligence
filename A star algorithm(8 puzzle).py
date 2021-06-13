@@ -3,7 +3,6 @@
 
 # In[31]:
 
-
 import numpy as np
 
 
